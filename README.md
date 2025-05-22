@@ -19,14 +19,12 @@
 论文：Language-Guided Object-Centric Diffusion Policy for Generalizable and Collision-Aware Robotic Manipulation（ICRA2025）  
 链接：https://arxiv.org/abs/2407.00451  
 说明：利用大模型将物体分为障碍物和目标，输入3D点云+动作信息扩散成轨迹  
+# 分层架构 
 论文：Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation（CVPR2024）  
-链接：https://arxiv.org/html/2403.03890v1  
-# 分层架构  
+链接：https://arxiv.org/html/2403.03890v1   
 说明：分层扩散模型，高层预测关键帧，低层进行扩散生成  
-论文：AdaptDiffuser: Diffusion Models as Adaptive Self-evolving Planners（ICML2023 Oral)  
-链接：https://arxiv.org/abs/2302.01877  
 # 自适应  
-论文：AdaptDiffuser: Diffusion Models as Adaptive Self-evolving Planners  
+论文：AdaptDiffuser: Diffusion Models as Adaptive Self-evolving Planners（ICML2023 Oral)  
 链接：https://arxiv.org/abs/2302.01877  
 说明：AIGC赋能扩散模型，同一模型可以适应不同任务  
 # 多机械臂（扩散模型）  
