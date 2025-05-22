@@ -8,7 +8,7 @@
 链接：https://arxiv.org/abs/2402.02989  
 说明：去噪条件为3D点云  
 论文：3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations（RSS2024）  
-链接：https://arxiv.org/abs/2403.03954
+链接：https://arxiv.org/abs/2403.03954  
 说明：去噪条件为3D点云+动作信息  
 论文：3D Diffuser Actor: Policy Diffusion with 3D Scene Representations  
 链接：https://arxiv.org/abs/2402.10885  
